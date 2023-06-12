@@ -1,0 +1,79 @@
+body {
+    background-color: white;
+    font-family: 'Arial', sans-serif;
+    color: bisque;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+.container{
+    background: linear-gradient(to right, #fdfdfd, #ebedde);
+}
+.text-gradient {
+    background: linear-gradient(90deg,#00dbde,#fc00ff);
+    font-family:'Courier New', Courier, monospace;
+    font-size: 40px;
+    text-transform: uppercase;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+h2 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    color: #777;
+}
+
+.lyrics {
+    font-size: 18px;
+    color: peachpuff;
+    line-height: 1.5;
+    font-style: italic;
+}
+
+.lyrics p {
+    margin: 10px 0;
+}
+.lyrics p:nth-child(even) {
+    font-style: normal;
+}
+.lyrics {
+margin-top: -320px;
+margin-left: 70px;
+color: black;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-weight: 700;
+}
+.lyrics1 {
+    margin-top: -340px;
+    margin-left: 930px;
+    margin-right: 170px;
+    color: black;
+    font-family: "Sofia", sans-serif;
+    font-weight: 800;
+    font-size: 20px;
+    }
+    .lyrics2 {
+        margin-top: -320px;
+        margin-left: 80px;
+        margin-right: 1060px;
+        color: black;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-weight: 700;
+        }
+    #c1{
+        position: absolute;
+        background-color: #00dbde;
+        height: 10%;
+        width: 5%;
+        margin-bottom: 10px;
+        border: 1px solid white;
+        border-radius: 100%;
+        background-image: radial-gradient(circle, yellow,orange, green);
+        top: 1450px;
+        right: 199px;
+    }
+   
+    
